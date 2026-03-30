@@ -4,6 +4,7 @@ It demonstrates a progression from basic object detection to some advanced multi
 personal protective equipment (PPE) compliance and traffic monitoring.
 
 #PROJECTS IN THE REPO:
+
 ##Project 1: YOLO Basics
 A foundational project demonstrating how to load a pre-trained YOLOv8 model and run inference on static images and webcams.
 
